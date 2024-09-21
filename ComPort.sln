@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComPort", "ComPort\ComPort.csproj", "{DABA9A82-9737-42AC-9314-1AA653221C38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleComPort", "ConsoleComPort\ConsoleComPort.csproj", "{04929555-B170-4B66-9E37-A4C7B3238D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABA9A82-9737-42AC-9314-1AA653221C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABA9A82-9737-42AC-9314-1AA653221C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABA9A82-9737-42AC-9314-1AA653221C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABA9A82-9737-42AC-9314-1AA653221C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04929555-B170-4B66-9E37-A4C7B3238D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04929555-B170-4B66-9E37-A4C7B3238D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04929555-B170-4B66-9E37-A4C7B3238D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04929555-B170-4B66-9E37-A4C7B3238D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4BFB9B1-3BD6-47F8-B32E-AFB0A4144CA0}
+	EndGlobalSection
+EndGlobal
